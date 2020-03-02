@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15777" started-at="2020-03-02T10:12:54 EST" finished-at="2020-03-02T10:13:10 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="15777" started-at="2020-03-02T10:12:54 EST" finished-at="2020-03-02T10:13:10 EST">
+      <class name="allTest.HomepageTest">
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:allTest.HomepageTest@4f063c0a]" name="openUrl" is-config="true" duration-ms="8297" started-at="2020-03-02T10:12:54 EST" finished-at="2020-03-02T10:13:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="titleValidation()[pri:1, instance:allTest.HomepageTest@4f063c0a]" name="titleValidation" duration-ms="105" started-at="2020-03-02T10:13:03 EST" finished-at="2020-03-02T10:13:03 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- titleValidation -->
+        <test-method status="PASS" signature="openUrl()[pri:0, instance:allTest.HomepageTest@4f063c0a]" name="openUrl" is-config="true" duration-ms="1035" started-at="2020-03-02T10:13:03 EST" finished-at="2020-03-02T10:13:04 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openUrl -->
+        <test-method status="PASS" signature="bestSellerValidation()[pri:2, instance:allTest.HomepageTest@4f063c0a]" name="bestSellerValidation" duration-ms="6084" started-at="2020-03-02T10:13:04 EST" finished-at="2020-03-02T10:13:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bestSellerValidation -->
+        <test-method status="PASS" signature="close()[pri:0, instance:allTest.HomepageTest@4f063c0a]" name="close" is-config="true" duration-ms="196" started-at="2020-03-02T10:13:10 EST" finished-at="2020-03-02T10:13:10 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- allTest.HomepageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
